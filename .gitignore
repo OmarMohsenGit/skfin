@@ -7,3 +7,5 @@ __pycache__/
 nbs/cache/
 CONSTITUTION.md
 STANDARDS.md
+# Ignore all Parquet files
+*.parquet
